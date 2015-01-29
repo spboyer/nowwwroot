@@ -5,6 +5,8 @@
 *.suo
 *.user
 *.sln.docstates
+bower_components
+node_modules
 
 # Build results
 [Dd]ebug/
