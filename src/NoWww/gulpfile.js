@@ -11,6 +11,11 @@ var colors = $.util.colors;
 gulp.task('default', ['help']);
 gulp.task('help', $.taskListing);
 
+gulp.task('prepare', ['fonts'], function(){
+    log('Preparing project/solution for development');
+
+
+});
 
 /**
  * Wire-up the bower dependencies
@@ -49,7 +54,7 @@ gulp.task('fonts', ['clean-fonts'], function () {
 
     return gulp
         .src(config.fonts)
-         .pipe(gulp.dest(config.client + 'fonts'))
+        .pipe(gulp.dest(config.client + 'fonts'))
         .pipe(gulp.dest(config.build + 'fonts'));
 });
 
