@@ -12,7 +12,7 @@
             './src/**/*.js',
             './*.js'
         ],
-        build: './build/',
+        build: './wwwroot/',
         client: client,
         css: [
             temp + 'styles.css',
