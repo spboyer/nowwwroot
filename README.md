@@ -1,4 +1,4 @@
-Blog Post here [https://github.com/spboyer/nowwwroot](https://github.com/spboyer/nowwwroot)
+Blog Post here [http://tattoocoder.com/wwwroot-folder-optional/](http://tattoocoder.com/wwwroot-folder-optional/)
 # nowwwroot
 An ASP.NET 5 Application example without using the wwwroot folder
 
