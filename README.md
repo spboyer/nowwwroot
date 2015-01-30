@@ -1,3 +1,4 @@
+Blog Post here [https://github.com/spboyer/nowwwroot](https://github.com/spboyer/nowwwroot)
 # nowwwroot
 An ASP.NET 5 Application example without using the wwwroot folder
 
